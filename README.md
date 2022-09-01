@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Sou Estudante do curso de Engenharia de software me especializando como **desenvolvedor Web Full-Stack** por meio do curso ProgramadorBR **(HTML, CSS, JavaScript)**. Venho estudando mais Node.Js.
+Sou Estudante do curso de Engenharia de software me especializando como **desenvolvedor Web Full-Stack** por meio do curso ProgramadorBR **(HTML, CSS, JavaScript)**. 
 
 <a href="https://github.com/Thaynansp29">
   <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Thaynansp29&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
